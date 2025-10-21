@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project so far includes a backend and frontend for a web app that handles user login and signup. Currently, the backend and frontend are not connected, but both parts work independently.
+Pixelate is a fashion retail web application that enables users to create, share, and interact with fashion content. Users are able to post outfits, like, and comment on others’ posts. Post filtering options are also available. Additionally, the web application features two virtual try-on modes for enhanced user experience.
 
 ## Prerequisites
 
@@ -59,7 +59,7 @@ This will open the frontend web application in your browser.
 - If the frontend does not open automatically, try navigating to `http://localhost:3000` or `http://localhost:3001` manually in your browser.
 
 ## Future Improvements
-- More clothing options for tbe try-on feature and closet
+- More clothing options for the try-on feature and closet
 - Deploy website so that is accessible online
 - Posts can be deleted from `All Posts` page
 
